@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @tutoraMarih 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-tutoraMarih/tutoraMarih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- # Sobre mim
+-
+- 👋 Olá, sou Marilisa, Tutora de Formação
+- 👀 Esztou interessada em aprender a Linguagem da Programação
+- 🌱 Estou aprendendo a linguagem do GitHub
+- >

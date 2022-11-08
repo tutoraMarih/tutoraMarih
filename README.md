@@ -1,6 +1,5 @@
 - # Sobre mim
--
 - 👋 Olá, sou Marilisa, Tutora de Formação
-- 👀 Esztou interessada em aprender a Linguagem da Programação
+- 👀 Estou interessada em aprender a Linguagem da Programação
 - 🌱 Estou aprendendo a linguagem do GitHub
 - >
